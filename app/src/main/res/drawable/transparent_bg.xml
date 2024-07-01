@@ -1,0 +1,9 @@
+<!-- res/drawable/transparent_background.xml -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@android:color/transparent" />
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="#FFFFFF" /> <!-- #FF000000 is a semi-transparent black color -->
+        </shape>
+    </item>
+</layer-list>

@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.FirstIntermediateAndroidSubmission" parent="Theme.Material3.DayNight">
+        <item name="colorPrimary">@color/braun4</item>
+        <item name="colorPrimaryVariant">@color/braun3</item>
+        <item name="colorOnPrimary">@color/braun1</item>
+
+        <item name="colorSecondary">@color/grun4</item>
+        <item name="colorSecondaryVariant">@color/grun3</item>
+        <item name="colorOnSecondary">@color/grun1</item>
+    </style>
+</resources>
