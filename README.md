@@ -14,6 +14,7 @@ This app allows users to browse a list of posts presented in a timeline format v
 In addition to the techniques shown in the prerequisite course's [submission](https://github.com/mediarahan/DicodingFundamental), this project is a showcase of my understanding of intermediate concepts in Android Development, specifically about:
 - Making custom animations and UI, such as for validating input fields when entering register or login info
 - Implementing Paging to ensure a seamless experience when user is scrolling by continuously fetching post data
+- Manual dependency injection
 - How to access the device's camera, gallery to obtain media such as photos and videos
 - Uploading photos to server using Retrofit and Multipart
 - How to use Google's Maps API to implement a location-based feature 
