@@ -26,6 +26,7 @@ In addition to the techniques shown in the prerequisite course's [submission](ht
 Click [here](https://drive.google.com/file/d/1MIO-5qALiG_H_H1bYAySQSFdJvWKCMJq/view?usp=sharing) to download the app (APK).
 
 ## Screenshots
+Anime girl illustration were provided courtesy of [Dwikipan](https://x.com/dwikipanstudio)
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a0e7e615-e376-473d-af75-49a38d5b865a" alt="intermediate1" width="200"/>
   <img src="https://github.com/user-attachments/assets/fc7a6d20-f4c4-45c2-8c6d-5c1978220c72" alt="intermediate2" width="200"/>
@@ -36,4 +37,3 @@ Click [here](https://drive.google.com/file/d/1MIO-5qALiG_H_H1bYAySQSFdJvWKCMJq/v
   <img src="https://github.com/user-attachments/assets/d971d806-ba8e-4d08-a2f2-a4e7e8a2b3cb" alt="intermediate7" width="200"/>
 </p>
 
-Anime girl illustration were provided courtesy of [Dwikipan](https://x.com/dwikipanstudio)
